@@ -1,5 +1,5 @@
 {
-  "version": "1.5.2806",
+  "version": "1.6.2608",
   "download_url": "https://raw.githubusercontent.com/pv15suporte-gif/JRSYSTEMS/main/update.zip",
-  "notes": "Novo modelo DNA Pneus e melhorias no autoajuste de texto."
+  "notes": "Correção do updater para Nuitka OneFile."
 }
